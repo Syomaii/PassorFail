@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\passorfail\passorfail\bin\Debug\passorfail.exe.config
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\passorfail\passorfail\bin\Debug\passorfail.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\passorfail\passorfail\bin\Debug\passorfail.pdb
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\passorfail\passorfail\obj\Debug\passorfail.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\passorfail\passorfail\obj\Debug\passorfail.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\passorfail\passorfail\obj\Debug\passorfail.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\passorfail\passorfail\obj\Debug\passorfail.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\passorfail\passorfail\obj\Debug\passorfail.pdb
